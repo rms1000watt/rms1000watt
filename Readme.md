@@ -2,4 +2,11 @@
 
 ## Introduction
 
-I enjoy building DevOps tooling in Golang 😊
+I enjoy building:
+- DevOps
+- Tooling
+- Golang
+- K8s
+- Docker
+- Github Actions/Gitlab
+- Node
